@@ -216,6 +216,7 @@ li i{
     background: linear-gradient(to left, rgb(247, 247, 247) 50%, white 50%) right;
     background-size: 200%;
     transition: .5s ease-out;
+    color: black;
 }
 .explore:hover{
     background-color: white;
